@@ -32,7 +32,7 @@
 Отчет о результатах тестирования будет подготовлен по завершению основного покрытия функционала. Включает в себя выводы о качестве тестируемого функционала, найденные баги и рекомендации.
 
 ## Тестирование проводили: 
-- **Алексей Гусев** - alexeygusev55@gmail.com
-- **Telegram - *https://t.me/AlexeyGusev94*
-- **Старков Александр** - a.starkovjr@gmail.com
-- **Telegram - *https://t.me/AlexStarkJr*
+- **Алексей Гусев** - *alexeygusev55@gmail.com*
+- **Telegram** - *https://t.me/AlexeyGusev94*
+- **Старков Александр** - *a.starkovjr@gmail.com*
+- **Telegram** - *https://t.me/AlexStarkJr*
