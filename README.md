@@ -34,5 +34,10 @@
 ## Тестирование проводили: 
 - **Алексей Гусев** - *alexeygusev55@gmail.com*
 - **Telegram** - *https://t.me/AlexeyGusev94*
+- **Google Docks с проектами по тестированию** - **
+
 - **Старков Александр** - *a.starkovjr@gmail.com*
 - **Telegram** - *https://t.me/AlexStarkJr*
+- **Google Docks с проектами по тестированию** - *https://drive.google.com/drive/folders/1Tcj648y9MdwFNRL-OTrIGNK_voaMA1WK?usp=drive_link*
+- **GitHub Тестирование** - *https://github.com/Alexandr-StarkovJr*
+- **GitHub Программирование** - *https://github.com/Alexandr-Starkov*
