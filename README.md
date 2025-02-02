@@ -9,7 +9,7 @@
 - [Тест-кейсы](#test-cases)
 - [Баг-репорты](#bug-reports)
 - [Отчет о результатах тестирования](#test-results)
-- [Контакты](#contacts)
+- [Тестирование проводили](#testers)
 
 ## План тестирования
 
@@ -35,7 +35,6 @@
 - **Алексей Гусев** - *alexeygusev55@gmail.com*
 - **Telegram** - *https://t.me/AlexeyGusev94*
 - **Google Docks с проектами по тестированию** - **
-
 - **Старков Александр** - *a.starkovjr@gmail.com*
 - **Telegram** - *https://t.me/AlexStarkJr*
 - **Google Docks с проектами по тестированию** - *https://drive.google.com/drive/folders/1Tcj648y9MdwFNRL-OTrIGNK_voaMA1WK?usp=drive_link*
